@@ -1,0 +1,430 @@
+Perolehan dan Pengumpulan Data Pengguna
+
+Transjakarta mengumpulkan data Pengguna dengan tujuan untuk memproses transaksi Pengguna, mengelola dan memperlancar proses penggunaan Situs, serta tujuan-tujuan lainnya selama diizinkan oleh peraturan perundang-undangan yang berlaku. Adapun data Pengguna yang dikumpulkan adalah sebagai berikut:
+
+Data yang diserahkan secara mandiri oleh Pengguna, termasuk namun tidak terbatas pada data yang diserahkan pada saat Pengguna:
+
+Membuat atau memperbarui akun PT Transportasi Jakarta, termasuk diantaranya nama pengguna (username), alamat email, nomor telepon, password, alamat, foto, dan lain-lain;
+Menghubungi PT Transportasi Jakarta, termasuk melalui layanan konsumen;
+Mengisi survei yang dikirimkan oleh PT Transportasi Jakarta atau atas nama PT Transportasi Jakarta;
+Melakukan interaksi dengan Pengguna lainnya melalui fitur pesan, diskusi produk, ulasan, rating, Pusat Resolusi dan sebagainya;
+Mempergunakan layanan-layanan pada Situs, termasuk data transaksi yang detil, diantaranya jenis, jumlah dan/atau keterangan dari produk atau layanan yang dibeli, alamat pengiriman, kanal pembayaran yang digunakan, jumlah transaksi, tanggal dan waktu transaksi, serta detil transaksi lainnya;
+Mengisi data-data pembayaran pada saat Pengguna melakukan aktivitas transaksi pembayaran melalui Situs, termasuk namun tidak terbatas pada data rekening bank, kartu kredit, virtual account, instant payment, internet banking, gerai ritel; dan/atau
+Menggunakan fitur yang membutuhkan izin akses terhadap perangkat Pengguna.
+Data yang terekam pada saat Pengguna mempergunakan Situs, termasuk namun tidak terbatas pada:
+
+Data lokasi riil atau perkiraannya seperti alamat IP, lokasi Wi-Fi, geo-location, dan sebagainya;
+Data berupa waktu dari setiap aktivitas Pengguna, termasuk aktivitas pendaftaran, login, transaksi, dan lain sebagainya;
+Data penggunaan atau preferensi Pengguna, diantaranya interaksi Pengguna dalam menggunakan Situs, pilihan yang disimpan, serta pengaturan yang dipilih. Data tersebut diperoleh menggunakan cookies, pixel tags, dan teknologi serupa yang menciptakan dan mempertahankan pengenal unik;
+Data perangkat, diantaranya jenis perangkat yang digunakan untuk mengakses Situs, termasuk model perangkat keras, sistem operasi dan versinya, perangkat lunak, nama file dan versinya, pilihan bahasa, pengenal perangkat unik, pengenal iklan, nomor seri, informasi gerakan perangkat, dan/atau informasi jaringan seluler;
+Data catatan (log), diantaranya catatan pada server yang menerima data seperti alamat IP perangkat, tanggal dan waktu akses, fitur aplikasi atau laman yang dilihat, proses kerja aplikasi dan aktivitas sistem lainnya, jenis peramban, dan/atau situs atau layanan pihak ketiga yang Anda gunakan sebelum berinteraksi dengan Situs.
+Data yang diperoleh dari sumber lain, termasuk:
+
+Mitra usaha PT Transportasi Jakarta yang turut membantu PT Transportasi Jakarta dalam mengembangkan dan menyajikan layanan-layanan dalam Situs kepada Pengguna, antara lain mitra penyedia layanan pembayaran, logistik atau kurir, infrastruktur situs, dan mitra-mitra lainnya.
+Mitra usaha PT Transportasi Jakarta tempat Pengguna membuat atau mengakses akun PT Transportasi Jakarta, seperti layanan media sosial, atau situs/aplikasi yang menggunakan API PT Transportasi Jakarta atau yang digunakan PT Transportasi Jakarta;
+Penyedia layanan finansial (apabila Pengguna menggunakan fitur spesifik seperti Mitra Toppers);
+Penyedia layanan pemasaran;
+Sumber yang tersedia secara umum.
+Transjakarta dapat menggabungkan data yang diperoleh dari sumber tersebut dengan data lain yang dimilikinya.
+***
+
+Penggunaan Data
+
+Transjakarta dapat menggunakan keseluruhan atau sebagian data yang diperoleh dan dikumpulkan dari Pengguna sebagaimana disebutkan dalam bagian sebelumnya untuk hal-hal sebagai berikut:
+
+Memproses segala bentuk permintaan, aktivitas maupun transaksi yang dilakukan oleh Pengguna melalui Situs, termasuk untuk keperluan pengiriman produk kepada Pengguna.
+Penyediaan fitur-fitur untuk memberikan, mewujudkan, memelihara dan memperbaiki produk dan layanan kami, termasuk:
+a) Menawarkan, memperoleh, menyediakan, atau memfasilitasi layanan marketplace, asuransi, pembiayaan, pinjaman, maupun produk-produk lainnya melalui Situs;
+b) Memungkinkan fitur untuk mempribadikan akun PT Transportasi Jakarta Pengguna, seperti Wishlist dan Toko Favorit; dan/atau
+c) Melakukan kegiatan internal yang diperlukan untuk menyediakan layanan pada situs/aplikasi PT Transportasi Jakarta, seperti pemecahan masalah software, bug, permasalahan operasional, melakukan analisis data, pengujian, dan penelitian, dan untuk memantau dan menganalisis kecenderungan penggunaan dan aktivitas.
+Membantu Pengguna pada saat berkomunikasi dengan Layanan Pelanggan PT Transportasi Jakarta, diantaranya untuk:
+a) Memeriksa dan mengatasi permasalahan Pengguna;
+b) Mengarahkan pertanyaan Pengguna kepada petugas Layanan Pelanggan yang tepat untuk mengatasi permasalahan; dan
+c) Mengawasi dan memperbaiki tanggapan Layanan Pelanggan PT Transportasi Jakarta.
+Menghubungi Pengguna melalui email, surat, telepon, fax, dan lain-lain, termasuk namun tidak terbatas, untuk membantu dan/atau menyelesaikan proses transaksi maupun proses penyelesaian kendala.
+Menggunakan informasi yang diperoleh dari Pengguna untuk tujuan penelitian, analisis, pengembangan dan pengujian produk guna meningkatkan keamanan dan keamanan layanan-layanan pada Situs, serta mengembangkan fitur dan produk baru.
+Menginformasikan kepada Pengguna terkait produk, layanan, promosi, studi, survei, berita, perkembangan terbaru, acara dan lain-lain, baik melalui Situs maupun melalui media lainnya. PT Transportasi Jakarta juga dapat menggunakan informasi tersebut untuk mempromosikan dan memproses kontes dan undian, memberikan hadiah, serta menyajikan iklan dan konten yang relevan tentang layanan PT Transportasi Jakarta dan mitra usahanya.
+Melakukan monitoring ataupun investigasi terhadap transaksi-transaksi mencurigakan atau transaksi yang terindikasi mengandung unsur kecurangan atau pelanggaran terhadap Syarat dan Ketentuan atau ketentuan hukum yang berlaku, serta melakukan tindakan-tindakan yang diperlukan sebagai tindak lanjut dari hasil monitoring atau investigasi transaksi tersebut.
+Dalam keadaan tertentu, PT Transportasi Jakarta mungkin perlu untuk menggunakan ataupun mengungkapkan data Pengguna untuk tujuan penegakan hukum atau untuk pemenuhan persyaratan hukum dan peraturan yang berlaku, termasuk dalam hal terjadinya sengketa atau proses hukum antara Pengguna dan PT Transportasi Jakarta.
+***
+
+Pengungkapan Data Pribadi Pengguna
+
+Transjakarta menjamin tidak ada penjualan, pengalihan, distribusi atau meminjamkan data pribadi Anda kepada pihak ketiga lain, tanpa terdapat izin dari Anda, kecuali dalam hal-hal sebagai berikut:
+Dibutuhkan adanya pengungkapan data Pengguna kepada mitra atau pihak ketiga lain yang membantu PT Transportasi Jakarta dalam menyajikan layanan pada Situs dan memproses segala bentuk aktivitas Pengguna dalam Situs, termasuk memproses transaksi, verifikasi pembayaran, pengiriman produk, dan lain-lain.
+Transjakarta dapat menyediakan informasi yang relevan kepada mitra usaha sesuai dengan persetujuan Pengguna untuk menggunakan layanan mitra usaha, termasuk diantaranya aplikasi atau situs lain yang telah saling mengintegrasikan API atau layanannya, atau mitra usaha yang mana PT Transportasi Jakarta telah bekerjasama untuk mengantarkan promosi, kontes, atau layanan yang dikhususkan
+Dibutuhkan adanya komunikasi antara mitra usaha PT Transportasi Jakarta (seperti penyedia logistik, pembayaran, dan lain-lain) dengan Pengguna dalam hal penyelesaian kendala maupun hal-hal lainnya.
+Transjakarta dapat menyediakan informasi yang relevan kepada vendor, konsultan, mitra pemasaran, firma riset, atau penyedia layanan sejenis.
+Pengguna menghubungi PT Transportasi Jakarta melalui media publik seperti blog, media sosial, dan fitur tertentu pada Situs, komunikasi antara Pengguna dan PT Transportasi Jakarta mungkin dapat dilihat secara publik.
+Transjakarta dapat membagikan informasi Pengguna kepada anak perusahaan dan afiliasinya untuk membantu memberikan layanan atau melakukan pengolahan data untuk dan atas nama PT Transportasi Jakarta.
+Transjakarta mengungkapkan data Pengguna dalam upaya mematuhi kewajiban hukum dan/atau adanya permintaan yang sah dari aparat penegak hukum.
+
+
+TERMS AND CONDITIONS
+Terms and Condition ( syarat dan ketentuan )
+Syarat dan ketentuan di bawah ini merupakan syarat - syarat antara Anda dengan Dinas Perhubungan Kota Surabaya yang mengatur pengoperasian dan penggunaan Aplikasi Gobis yaitu aplikasi Penyedia sarana member GoBis online milik Kami dan untuk Anda.
+
+Mohon untuk membaca dengan hati-hati Terms and Condition ini.
+Dengan menggunakan aplikasi serta menggunakan jasa yang disediakan oleh Applicator (DISHUB Kota Surabaya ) berarti Anda dianggap telah membaca, mengetahui, dan menyetujui untuk terikat oleh semua syarat dan ketentuan dalam Terms and Condition ini secara sadar dan tanpa paksaan. Jika Anda tidak menyetujui Terms and Condition ini, Anda tidak diperkenankan untuk mengakses lebih lanjut Aplikasi Gobis dan dipersilahkan untuk meninggalkan Aplikasi Gobis
+
+Ketentuan Umum
+Anda tidak diperbolehkan untuk:
+
+Menggunakan Aplikasi Gobis untuk kegiatan melanggar hukum, melanggar hak-hak atau yang bertentangan dengan norma atau aturan yang berlaku;
+Memberikan informasi dan konten yang salah, tidak akurat, bersifat menyesatkan, mengganggu pengguna APP atau pelanggan Kami atau bersifat memfitnah, asusila, mengandung pornografi, bersifat diskriminasi atau rasis, mengancam, menyinggung orang, atau menghalangi orang lain untuk menggunakan Aplikasi Gobis.
+Memberikan nama atau informasi account pada Aplikasi Gobis kepada pihak lain tanpa sepengetahuan Kami, atau mengumpulkan atau menggunakan informasi dari pengguna lain tanpa sepengetahuan pengunjung lain.
+Mengambil tindakan yang dapat mengacaukan sistem atau menghalangi pengoperasian APP Aplikasi Gobis.
+Menyebarkan virus atau seluruh teknologi lain yang sejenis yang dapat merusak dan/atau merugikan Aplikasi Gobis.
+Menyimpan, meniru, mengubah, atau menyebarkan konten dan fitur Aplikasi Gobis termasuk cara pelayanan, konten yang terdapat pada Aplikasi Gobis tanpa seijin Dinas Perhubungan Kota Surabaya.
+Memformat ulang bagian manapun dari halaman web yang tertera yang merupakan bagian dari Aplikasi Gobis.
+Membuat akun dengan alat otomatis atau identitas palsu.
+Melakukan tindakan apapun yang membebankan atau berdasarkan pendapat logis kami akan mengakibatkan beban (data) berat atau beban (data) yang tidak masuk akal pada infrastruktur kami.
+Menggunakan Aplikasi Gobis yang tidak sesuai dengan persyaratan dan ketentuan Kami.
+Berusaha melakukan salah satu tindakan di atas atau terlibat atau mengijinkan orang lain untuk melakukan salah satu dari tindakan di atas.
+Kami berhak membatasi atau tidak memberikan akses, atau memberikan akses yang berbeda untuk dapat membuka Aplikasi Gobis dan fitur di dalamnya, atau mengganti salah satu fitur atau memasukkan fitur baru tanpa pemberitahuan sebelumnya dengan alasan apapun dan dengan ini Anda sepakat membebaskan Kami dari segala bentuk pertanggungjawaban jika Anda tidak dapat menggunakan Aplikasi Gobis (baik karena gangguan, dibatasinya akses, dilakukannya perubahan fitur atau tidak dimasukkannya lagi fitur tertentu atau karena alasan lain) atau jika komunikasi atau transmisi tertunda, gagal atau tidak dapat berlangsung; atau jika timbul kerugian (secara langsung, tidak langsung) karena digunakannya atau tidak dapat digunakannya Aplikasi Gobis atau salah satu fitur di dalamnya.
+
+Persyaratan Keanggotaan
+Persyaratan daftar sebagai pengguna Umum :
+
+Nama lengkap sesuai dengan KTP
+Username
+Jenis kelamin
+Email
+Keanggotaan
+Anda hanya diijinkan memiliki satu akun yang aktif. Member Gobis berhak mendapatkan notifikasi kegiatan/ Event yang dilakukan oleh Gobis. Pelanggaran ketentuan ini akan menyebabkan pemutusan akun. Dengan menggunakan Aplikasi Gobis, Anda setuju untuk memberikan informasi yang benar dan akurat tentang diri sendiri ketika diminta oleh Aplikasi Gobis . Jika Anda memberikan informasi yang tidak benar, tidak tepat, atau tidak lengkap, maka Kami berhak untuk menangguhkan atau mengakhiri akun Anda. Anda bertanggung jawab untuk menjaga kerahasiaan dan keamanan akun dan password Anda, dan bertanggung jawab sepenuhnya atas segala kegiatan yang diatasnamakan nama akun anda.
+
+Pemilik melapor sesegera mungkin kepada Customer Service melalui telepon 03199014437, email di dishubsurabaya@gmail.com atau Direct Message melalui akun Official Instagram @suroboyobus untuk melakukan pemblokiran atau penonaktifan akun.
+
+Kami berhak sepenuhnya untuk membatasi, memblokir, atau mengakhiri pelayanan dari suatu Akun dan mengambil tindakan atau langkah hukum apapun jika Kami menganggap Anda melanggar hukum yang berlaku, melanggar hak milik intelektual, atau melakukan suatu pelanggaran terhadap syarat dan ketentuan lain.
+
+Anda juga tidak diperbolehkan untuk mengalihkan akun Anda kepada pihak lain dengan cara apapun tanpa sepengetahuan dan persetujuan tertulis dari Kami. Apabila Anda melanggar ketentuan ini, maka seluruh akibat dan risiko sepenuhnya merupakan tanggung jawab Anda sendiri yang mengalihkan akun.
+
+Ketentuan Top Up
+Tatacara Top Up / Penyetoran sampah pada saat mengisi saldo Account pada APP Gobis yang dapat anda lakukan dengan cara menyetor sampah ke bank sampah ditempat – tempat yang tercantum pada APP Gobis.
+
+Anda berhak memilih metode Top Up / Penyetoran yang kami sediakan di mana setiap Top Up 1 point diperlukan :
+
+3 Botol plastik berukuran 1,5 Liter
+5 Botol plastik berukuran 600 mili liter
+10 Botol plastik kurang dari 600 mili liter.
+Barangsiapa berbuat curang/ bersekongkol dengan petugas topup dengan sengaja ataupun tidak melakukan topup guna untuk menguntungkan diri sendiri maupun orang lain dengan topup yang tidak sesuai dengan botol yang disetor akan dilakukan pemblokiran akun untuk pengguna jasa dan untuk petugas top up akan ditindak sesuai dengan peraturan dinas yang berlaku.
+
+Gangguan, Keluhan dan Saran GoBis
+Pengguna Jasa Gobis berhak menggunakan layanan Gangguan, Keluhan dan Saran yang di sediakan, dikarenakan Kesalahan kami dengan ketentuan / Format sebagai berikut :
+
+Gangguan dan Saran terhadap APP Gobis dengan memberikan bukti – bukti yang Valid berupa Video, foto dan keterangan yang mendukung.
+Keluhan dan Saran terkait pelayanan Suroboyo Bus dengan Format Nama Pelapor/ Tanggal/ Jam/ Nomor Bus/ Nama Sopir dan Helper/Halte Naik dan Turun/ Keluhan dan Saran.
+Gangguan, keluhan dan Saran tersebut bisa anda kirim melalui telepon 03199014437, email di dishubsurabaya@gmail.com atau Direct Message melalui akun Official Instagram @suroboyobus
+
+Setelah menggunakan layanan Gangguan dan keluhan Anda diterima dan diproses oleh Customer Service kami, maka Customer Service kami akan segera menghubungi Anda melalui alamat surat elektronik (email) atau telepon untuk mengkonfirmasikan permintaan Anda. Apabila Gangguan dan keluhan terbukti, Customer Service kami akan memberikan informasi mengenai Permasalahan yang anda alami.
+
+Pertanggungjawaban
+Kami tidak bertanggung jawab untuk dan menolak semua tanggung jawab atas setiap kerugian, kewajiban, kerusakan (baik langsung, tidak langsung atau konsekuensial), cedera pribadi atau biaya apapun juga sifatnya yang mungkin diderita oleh Anda atau pihak ketiga (termasuk perusahaan Anda) sehubungan dengan penggunaan APP ini, termasuk ketidakakuratan, kesalahan, kerugian, kerusakan atau kerugian yang disebabkan baik oleh karena kegagalan, penundaan, terputusnya layanan dan konten sebagaimana terdapat pada aplikasi ini, baik seluruh ataupun sebagian.
+
+Perubahan Terms and Condition
+Kami dapat mengubah syarat dan ketentuan ini setiap saat dan perubahan tersebut akan berlaku efektif segera setelah Anda melakukan konfirmasi persetujuan atas perubahan syarat dan ketentuan yang Kami berlakukan. Jika Anda memiliki pesanan yang telah Kami terima, maka syarat dan ketentuan yang akan berlaku untuk pesanan adalah syarat dan ketentuan yang berlaku pada saat Anda melakukan pesanan tersebut.
+
+PENGAKUAN DAN PERSETUJUAN
+Anda dapat menarik persetujuan anda untuk setiap atau segala pengumpulan, penggunaan atau pengungkapan Informasi Pribadi anda kapan saja dengan memberikan kepada kami pemberitahuan yang wajar secara tertulis menggunakan rincian kontak yang disebutkan di bawah ini. Anda juga dapat menarik persetujuan pengiriman komunikasi dan informasi tertentu dari kami melalui telepon 03199014437, email di dishubsurabaya@gmail.com atau Direct Message melalui akun Official Instagram @suroboyobus dan Nomor telepon 03199014437 tergantung pada keadaan dan sifat persetujuan yang anda tarik, anda harus memahami dan mengakui bahwa setelah penarikan persetujuan tersebut, anda mungkin tidak lagi dapat menggunakan Aplikasi atau layanan. Penarikan persetujuan anda dapat mengakibatkan penghentian Akun anda atau hubungan kontraktual anda dengan kami, dengan semua hak dan kewajiban yang muncul sepenuhnya harus dipenuhi. Setelah menerima pemberitahuan untuk menarik persetujuan untuk pengumpulan, penggunaan atau pengungkapan Informasi Pribadi anda, kami akan menginformasikan anda tentang konsekuensi yang mungkin terjadi dari penarikan tersebut sehingga anda dapat memutuskan apakah anda tetap ingin menarik persetujuan.
+
+CARA UNTUK MENGHUBUNGI KAMI
+Jika anda memiliki pertanyaan mengenai Kebijakan Term and Condition ini atau anda ingin mendapatkan akses dan/atau melakukan koreksi terhadap Informasi Pribadi anda, silahkan hubungi melalui telepon 03199014437, email di dishubsurabaya@gmail.com atau Direct Message melalui akun Official Instagram @suroboyobus.
+
+2020 © Dinas Perhubungan Kota Surabaya
+
+PERSYARATAN LAYANAN
+APLIKASI MITRA DARAT
+Kami tahu bahwa Anda mungkin ingin melewati Persyaratan Layanan ini, tetapi ini penting untuk menetapkan apa yang dapat Anda harapkan dari kami saat Anda menggunakan layanan APLIKASI MITRA DARAT, dan apa yang kami harapkan dari Anda.
+Persyaratan Layanan ini mencerminkan cara kerja bisnis APLIKASI MITRA DARAT, hukum yang berlaku untuk perusahaan kami, dan hal-hal tertentu yang kami yakini benar. Oleh karena itu, Persyaratan Layanan ini membantu menentukan hubungan APLIKASI MITRA DARAT dengan Anda saat Anda berinteraksi dengan layanan kami. Misalnya, persyaratan ini mencakup judul topik berikut:
+
+Hal yang dapat Anda harapkan dari kami, yang menjelaskan cara kami menyediakan dan mengembangkan layanan kami
+Hal yang kami harapkan dari Anda, yang menetapkan aturan tertentu untuk menggunakan layanan kami
+Konten di layanan APLIKASI MITRA DARAT, yang menjelaskan hak atas kekayaan intelektual pada konten yang Anda temukan di layanan kami — apakah konten tersebut milik Anda, APLIKASI MITRA DARAT, atau orang lain
+Jika terjadi masalah atau ketidaksetujuan, yang menjelaskan hak hukum lainnya yang Anda miliki, dan apa yang diharapkan jika seseorang melanggar persyaratan ini
+Penting untuk memahami persyaratan ini karena, dengan menggunakan layanan kami, Anda menyetujui persyaratan ini.
+
+Selain persyaratan ini, kami juga memublikasikan Kebijakan Privasi. Meski kebijakan tersebut bukan bagian dari persyaratan ini, kami mengimbau Anda untuk membacanya agar lebih memahami cara untuk memperbarui, mengelola, mengekspor, dan menghapus informasi Anda.
+
+
+⚠
+Persyaratan usia
+Jika Anda di bawah usia yang disyaratkan untuk mengelola Akun APLIKASI MITRA DARAT Anda sendiri, Anda harus meminta izin orang tua atau wali sah Anda untuk menggunakan Akun APLIKASI MITRA DARAT. Harap minta orang tua atau wali sah Anda untuk membaca persyaratan ini bersama Anda.
+
+Jika Anda orang tua atau wali sah, dan Anda mengizinkan anak Anda untuk menggunakan layanan, persyaratan ini berlaku untuk Anda dan Anda bertanggung jawab atas aktivitas anak Anda di layanan.
+
+Beberapa layanan APLIKASI MITRA DARAT memiliki persyaratan usia tambahan sebagaimana dijelaskan di persyaratan tambahan dan kebijakan khusus layanan .
+
+
+Hubungan Anda dengan APLIKASI MITRA DARAT
+Persyaratan ini membantu menentukan hubungan antara Anda dan APLIKASI MITRA DARAT. Pada umumnya, kami memberi Anda izin untuk menggunakan layanan kami jika Anda setuju untuk mengikuti persyaratan ini, yang mencerminkan cara kerja bisnis APLIKASI MITRA DARAT dan cara kami menghasilkan uang. Saat kami berbicara tentang "SIDOARUM" dan "kami", maksud kami adalah APLIKASI MITRA DARAT LLC dan afiliasinya.
+
+Yang dapat Anda harapkan dari kami
+Menyediakan berbagai layanan yang bermanfaat
+
+Kami menyediakan beragam layanan yang tunduk pada persyaratan ini, termasuk:
+Aplikasi dan Situs
+platform (seperti Android & IOS)
+layanan terintegrasi (seperti APLIKASI MITRA DARAT, yang diintegrasikan di aplikasi atau situs layanan kami)
+Layanan E-Wallet (QRIS dan LinkAJA Web CheckOut)
+Layanan kami didesain untuk saling terhubung, sehingga memudahkan Anda untuk proses pembuatan SIM.
+
+Menyempurnakan layanan APLIKASI MITRA DARAT
+
+Kami terus mengembangkan teknologi dan fitur baru untuk menyempurnakan layanan kami. Misalnya, kami berinvestasi dalam kecerdasan buatan yang menggunakan machine learning untuk mendeteksi dan memblokir spam dan malware, dan untuk memberi Anda fitur inovatif, seperti terjemahan simultan. Sebagai bagian dari penyempurnaan yang berkelanjutan ini, kami kadang menambahkan atau menghapus fitur dan fungsi, meningkatkan atau mengurangi batas pada layanan kami, dan mulai menawarkan layanan baru atau berhenti menawarkan layanan lama.
+
+Jika kami membuat perubahan penting yang berpengaruh negatif pada penggunaan layanan kami oleh Anda atau jika kami berhenti menawarkan suatu layanan, kami akan memberikan pemberitahuan terlebih dahulu yang wajar kepada Anda dan kesempatan untuk mengekspor konten Anda dari Akun APLIKASI MITRA DARAT Anda menggunakan SIDOARUM Takeout, kecuali dalam situasi mendesak, seperti mencegah penyalahgunaan, menanggapi persyaratan hukum, atau menangani masalah keamanan dan operabilitas.
+
+Yang kami harapkan dari Anda
+Mengikuti persyaratan ini dan persyaratan tambahan khusus layanan
+
+Izin yang kami berikan kepada Anda untuk menggunakan layanan kami berlanjut selama Anda memenuhi tanggung jawab Anda dalam:
+persyaratan ini
+persyaratan tambahan khusus layanan, yang dapat, misalnya, mencakup hal-hal seperti persyaratan usia tambahan
+Kami juga membuat berbagai kebijakan, pusat bantuan, dan referensi lainnya tersedia untuk Anda untuk menjawab pertanyaan umum dan memberitahukan apa yang dapat diharapkan saat menggunakan layanan kami. Referensi ini mencakup Kebijakan Privasi, Pusat Bantuan Hak Cipta, Pusat Keamanan kami, dan halaman lainnya yang dapat diakses dari situs kebijakan kami.
+
+Meski kami memberi Anda izin untuk menggunakan layanan kami, kami mempertahankan hak atas kekayaan intelektual yang kami miliki di layanan.
+
+Menghormati orang lain
+
+Banyak layanan kami yang memungkinkan Anda berinteraksi dengan orang lain. Kami ingin menjaga lingkungan yang saling menghormati bagi semua orang, yang artinya Anda harus mengikuti aturan perilaku dasar ini:
+mematuhi hukum yang berlaku, termasuk kontrol ekspor, sanksi, dan hukum perdagangan manusia
+menghormati hak orang lain, termasuk privasi dan hak atas kekayaan intelektual
+tidak melecehkan atau membahayakan orang lain atau diri Anda sendiri (atau mengancam atau mendorong pelecehan atau bahaya tersebut) — misalnya, dengan menyesatkan, menipu, mencemarkan nama baik, menindas, melecehkan, atau membuntuti orang lain
+tidak menyalahgunakan, membahayakan, mengusik, atau mengganggu layanan
+Persyaratan tambahan dan kebijakan khusus layanan kami menyediakan detail tambahan tentang perilaku yang sesuai yang harus dipatuhi oleh semua pengguna layanan tersebut. Jika Anda menemukan bahwa orang lain tidak mengikuti aturan ini, banyak layanan kami yang memungkinkan Anda melaporkan penyalahgunaan. Jika kami menindaklanjuti laporan penyalahgunaan, kami juga menyediakan proses yang adil seperti dijelaskan di bagian Mengambil tindakan jika terjadi masalah.
+
+Izin untuk menggunakan konten Anda
+
+Beberapa layanan kami didesain untuk memungkinkan Anda mengupload, menyerahkan, menyimpan, mengirim, menerima, atau membagikan konten Anda. Anda tidak memiliki kewajiban untuk menyediakan konten kepada layanan kami dan Anda bebas untuk memilih konten yang ingin Anda sediakan. Jika Anda memilih untuk mengupload atau membagikan konten, pastikan Anda memiliki hak yang diperlukan untuk melakukannya dan bahwa konten mematuhi hukum.
+
+Lisensi
+Konten Anda tetap menjadi milik Anda, yang artinya bahwa Anda mempertahankan hak atas kekayaan intelektual yang Anda miliki di konten Anda. Misalnya, Anda memiliki hak atas kekayaan intelektual dalam konten kreatif yang Anda buat, seperti ulasan yang Anda tulis. Atau Anda mungkin memiliki hak untuk membagikan konten kreatif milik orang lain jika mereka telah memberi Anda izin mereka.
+
+Kami memerlukan izin Anda jika hak atas kekayaan intelektual Anda membatasi penggunaan konten Anda oleh kami. Anda memberi APLIKASI MITRA DARAT izin tersebut melalui lisensi ini.
+
+Yang dicakup
+Lisensi ini mencakup konten Anda jika konten tersebut dilindungi oleh hak atas kekayaan intelektual.
+
+Yang tidak dicakup
+Lisensi ini tidak memengaruhi hak privasi Anda — ini hanya terkait dengan hak atas kekayaan intelektual Anda
+Lisensi ini tidak mencakup jenis konten ini:
+informasi faktual yang tersedia secara publik yang Anda sediakan, seperti koreksi alamat bisnis lokal. Informasi tersebut tidak memerlukan lisensi karena dianggap sebagai pengetahuan umum yang bebas untuk digunakan oleh semua orang.
+masukan yang Anda tawarkan, seperti saran untuk menyempurnakan layanan kami. Masukan dicakup di bagian Komunikasi terkait layanan di bawah.
+Cakupan
+Lisensi ini:
+berlaku di seluruh dunia, yang artinya valid di mana saja di dunia
+non-eksklusif, yang artinya Anda dapat melisensikan konten Anda kepada orang lain
+bebas royalti, yang artinya tidak ada biaya untuk lisensi ini
+Hak
+Lisensi ini mengizinkan APLIKASI MITRA DARAT untuk:
+
+menjadi host, memproduksi ulang, mendistribusikan, mengomunikasikan, dan menggunakan konten Anda — misalnya, untuk menyimpan konten Anda di sistem kami dan membuatnya dapat diakses dari mana saja
+memublikasikan, secara publik melakukan, atau secara publik menampilkan konten Anda, jika Anda telah membuatnya dapat dilihat orang lain
+mengubah dan membuat karya turunan berdasarkan konten Anda, seperti memformat ulang atau menerjemahkannya
+mensublisensikan hak ini kepada:
+pengguna lain untuk mengizinkan layanan berfungsi sebagaimana didesain, seperti memungkinkan Anda membagikan foto kepada orang yang Anda pilih
+kontraktor kami yang telah menandatangani perjanjian dengan kami yang konsisten dengan persyaratan ini, hanya untuk tujuan yang terbatas yang dijelaskan di bagian Tujuan di bawah
+Tujuan
+Lisensi ini diberikan untuk tujuan terbatas sebagai berikut:
+
+mengoperasikan dan menyempurnakan layanan, yang artinya memungkinkan layanan untuk berfungsi sebagaimana didesain serta menciptakan fitur dan fungsi baru. Ini mencakup penggunaan sistem dan algoritme otomatis untuk menganalisis konten Anda:
+untuk mendeteksi spam, malware, dan konten ilegal
+untuk mengenali pola dalam data, seperti menentukan kapan menyarankan album baru di APLIKASI MITRA DARAT Foto untuk menyimpan foto-foto yang saling berkaitan
+untuk menyesuaikan layanan kami bagi Anda, seperti menyediakan rekomendasi dan hasil penelusuran, konten, dan iklan yang dipersonalisasi (yang dapat Anda ubah atau nonaktifkan di Setelan Iklan)
+Analisis ini terjadi saat konten dikirim, diterima, dan saat konten disimpan.
+menggunakan konten yang telah Anda bagikan secara publik untuk mempromosikan layanan. Misalnya, untuk mempromosikan APLIKASI MITRA DARAT app, kami mungkin mengutip ulasan yang Anda tulis. Atau untuk mempromosikan APLIKASI MITRA DARAT Play, kami mungkin menampilkan screenshot aplikasi yang Anda tawarkan di Play Store.
+mengembangkan teknologi dan layanan baru untuk APLIKASI MITRA DARAT yang konsisten dengan persyaratan ini
+Durasi
+Lisensi ini berlaku selama konten Anda dilindungi oleh hak atas kekayaan intelektual.
+
+Jika Anda menghapus dari layanan kami konten apa pun yang dicakup oleh lisensi ini, maka sistem kami akan berhenti membuat konten tersebut tersedia secara publik dalam jumlah waktu yang wajar. Ada dua pengecualian:
+
+Jika Anda telah membagikan konten Anda kepada orang lain sebelum menghapusnya. Misalnya, jika Anda membagikan foto kepada seorang teman yang kemudian membuat salinannya, atau membagikannya lagi, maka foto tersebut dapat terus muncul di Akun APLIKASI MITRA DARAT teman Anda, bahkan setelah Anda menghapusnya dari Akun APLIKASI MITRA DARAT Anda.
+Jika Anda membuat konten Anda tersedia melalui layanan perusahaan lain, ada kemungkinan bahwa mesin pencari, termasuk APLIKASI MITRA DARAT Search, akan tetap menemukan dan menampilkan konten Anda sebagai bagian dari hasil penelusurannya.
+
+Menggunakan layanan APLIKASI MITRA DARAT
+Akun APLIKASI MITRA DARAT Anda
+Jika Anda memenuhi persyaratan usia ini, Anda dapat membuat Akun APLIKASI MITRA DARAT demi kemudahan Anda. Beberapa layanan mewajibkan Anda memiliki Akun APLIKASI MITRA DARAT agar berfungsi — misalnya, untuk menggunakan Gmail, Anda memerlukan Akun APLIKASI MITRA DARAT agar Anda memiliki tempat untuk mengirim dan menerima email Anda.
+
+Anda bertanggung jawab atas tindakan yang Anda lakukan dengan Akun APLIKASI MITRA DARAT Anda, termasuk mengambil langkah-langkah yang wajar untuk menjaga keamanan Akun APLIKASI MITRA DARAT Anda, dan kami menganjurkan Anda untuk secara teratur menggunakan Pemeriksaan Keamanan.
+
+Menggunakan layanan APLIKASI MITRA DARAT atas nama organisasi
+Banyak organisasi, seperti bisnis, nonprofit, dan sekolah memanfaatkan layanan kami. Untuk menggunakan layanan kami atas nama organisasi:
+perwakilan resmi dari organisasi tersebut harus menyetujui persyaratan ini
+administrator organisasi Anda dapat menetapkan Akun APLIKASI MITRA DARAT untuk Anda. Administrator tersebut mungkin meminta Anda untuk mengikuti aturan tambahan dan mungkin dapat mengakses atau menonaktifkan Akun APLIKASI MITRA DARAT Anda.
+Komunikasi terkait layanan
+Untuk menyediakan layanan kami kepada Anda, kami terkadang mengirimi Anda pengumuman layanan dan informasi lain. Untuk mempelajari lebih lanjut cara kami berkomunikasi dengan Anda, lihat Kebijakan Privasi APLIKASI MITRA DARAT.
+
+Jika Anda memilih untuk memberi kami masukan, seperti saran untuk menyempurnakan layanan kami, kami dapat bertindak berdasarkan masukan Anda tanpa kewajiban kepada Anda.
+
+
+Konten di layanan APLIKASI MITRA DARAT
+Konten Anda
+Beberapa layanan kami memberi Anda kesempatan untuk membuat konten Anda tersedia secara publik — misalnya, Anda mungkin memposting ulasan produk atau restoran yang Anda tulis, atau Anda mungkin mengupload postingan blog yang Anda buat.
+
+Lihat bagian Izin untuk menggunakan konten Anda untuk informasi selengkapnya tentang hak Anda di konten Anda, dan cara konten Anda digunakan di layanan kami
+Lihat bagian Menghapus konten Anda untuk mempelajari alasan dan cara kami dapat menghapus konten buatan pengguna dari layanan kami
+Jika menurut Anda seseorang melanggar hak atas kekayaan intelektual Anda, Anda dapat mengirimi kami pemberitahuan pelanggaran dan kami akan mengambil tindakan yang sesuai. Misalnya, kami menangguhkan atau menutup Akun APLIKASI MITRA DARAT pelanggar hak cipta berulang seperti dijelaskan di Pusat Bantuan Hak Cipta.
+
+Konten APLIKASI MITRA DARAT
+Beberapa layanan kami menyertakan konten milik APLIKASI MITRA DARAT — misalnya, beberapa ilustrasi visual yang Anda lihat di APLIKASI MITRA DARAT Maps. Anda dapat menggunakan konten APLIKASI MITRA DARAT sebagaimana diizinkan oleh persyaratan ini dan persyaratan tambahan khusus layanan, tetapi kami mempertahankan hak atas kekayaan intelektual yang kami miliki di konten kami. Jangan menghapus, mengaburkan, atau mengubah branding, logo, atau pemberitahuan hukum kami yang mana pun. Jika Anda ingin menggunakan branding atau logo kami, lihat halaman SIDOARUM Brand Permissions.
+
+Konten lainnya
+Terakhir, beberapa layanan kami memberi Anda akses ke konten milik orang atau organisasi lain — misalnya, deskripsi pemilik suatu toko tentang bisnisnya sendiri, atau artikel surat kabar yang ditampilkan di APLIKASI MITRA DARAT Berita. Anda tidak boleh menggunakan konten ini tanpa izin orang atau organisasi tersebut, atau sebagaimana diizinkan oleh hukum. Pandangan yang diungkapkan dalam konten orang atau organisasi lain adalah milik mereka, dan tidak serta-merta mencerminkan pandangan APLIKASI MITRA DARAT.
+
+
+Software di layanan APLIKASI MITRA DARAT
+Beberapa layanan kami menyertakan software yang dapat didownload. Kami memberi Anda izin untuk menggunakan software tersebut sebagai bagian dari layanan.
+
+Lisensi yang kami berikan kepada Anda adalah:
+berlaku di seluruh dunia, yang artinya valid di mana saja di dunia
+non-eksklusif, yang artinya kami dapat melisensikan software kepada orang lain
+bebas royalti, yang artinya tidak ada biaya untuk lisensi ini
+bersifat pribadi, yang artinya lisensi ini tidak dapat diberikan ke orang lain
+tidak dapat dialihkan, yang artinya Anda tidak diizinkan untuk mengalihkan lisensi kepada orang lain
+Beberapa layanan kami menyertakan software yang ditawarkan menurut persyaratan lisensi open source yang kami buat tersedia untuk Anda. Kadang ada ketentuan dalam lisensi open source yang secara eksplisit menggantikan bagian persyaratan ini, jadi harap pastikan untuk membaca lisensi tersebut.
+
+Anda tidak boleh menyalin, mengubah, mendistribusikan, menjual, atau menyewakan bagian apa pun dari layanan atau software kami. Selain itu, Anda tidak boleh merekayasa balik atau berupaya mengekstraksi kode sumber apa pun milik kami kecuali Anda memiliki izin tertulis dari kami atau hukum yang berlaku mengizinkan Anda melakukannya.
+
+Jika layanan memerlukan atau menyertakan software yang dapat didownload, software tersebut kadang diupdate secara otomatis di perangkat Anda setelah versi atau fitur baru tersedia. Beberapa layanan mengizinkan Anda menyesuaikan setelan update otomatis Anda.
+
+
+Jika terjadi masalah atau ketidaksetujuan
+Menurut hukum, Anda memiliki hak atas (1) kualitas layanan tertentu, dan (2) cara untuk memperbaiki masalah jika terdapat kesalahan. Persyaratan ini tidak membatasi atau menghilangkan salah satu hak tersebut. Misalnya, jika Anda konsumen, Anda tetap memiliki semua hak hukum yang diberikan kepada konsumen di negara Anda.
+
+Jaminan
+Kami menyediakan layanan kami menggunakan keterampilan dan perhatian yang wajar. Jika kami tidak memenuhi tingkat kualitas yang dijelaskan di jaminan ini, Anda setuju untuk memberi tahu kami dan kami akan bekerja sama dengan Anda untuk menyelesaikan masalah.
+
+Pernyataan Penangkalan
+Satu-satunya komitmen yang kami buat tentang layanan kami (termasuk konten di layanan, fungsi spesifik layanan kami, atau keandalan, ketersediaan, atau kemampuannya untuk memenuhi kebutuhan Anda) (1) dijelaskan di bagian Jaminan, (2) dinyatakan di persyaratan tambahan khusus layanan, atau (3) disediakan menurut hukum yang berlaku. Kami tidak membuat komitmen lain apa pun tentang layanan kami.
+
+Dan kecuali diwajibkan oleh hukum, kami tidak menyediakan jaminan tersirat, seperti jaminan tersirat kelayakan untuk diperdagangkan, kesesuaian untuk tujuan tertentu, dan ketiadaan pelanggaran.
+
+Kewajiban
+Untuk semua pengguna
+Persyaratan ini hanya membatasi tanggung jawab kami sebagaimana diizinkan oleh hukum yang berlaku. Secara khusus, persyaratan ini tidak membatasi kewajiban APLIKASI MITRA DARAT atas kematian atau cedera diri, penipuan, pernyataan tidak benar yang menipu, kelalaian serius, atau pelanggaran yang disengaja.
+
+Selain hak dan tanggung jawab yang dijelaskan di bagian ini (Jika terjadi masalah atau ketidaksetujuan), APLIKASI MITRA DARAT tidak akan bertanggung jawab atas kerugian lain, kecuali disebabkan oleh pelanggaran persyaratan ini atau persyaratan tambahan khusus layanan oleh kami.
+
+Hanya untuk pengguna bisnis dan organisasi
+Jika Anda pengguna bisnis atau organisasi, maka sejauh diizinkan oleh hukum yang berlaku:
+
+Anda akan melindungi APLIKASI MITRA DARAT dan direktur, petugas, karyawan, dan kontraktornya terhadap kerugian dari proses hukum pihak ketiga (termasuk tindakan oleh otoritas pemerintah) yang timbul dari atau berkaitan dengan penggunaan layanan yang melanggar hukum oleh Anda atau pelanggaran persyaratan ini atau persyaratan tambahan khusus layanan. Perlindungan terhadap kerugian ini mencakup kewajiban atau pengeluaran yang timbul dari klaim, kerugian, kerusakan, putusan pengadilan, denda, biaya proses pengadilan, dan biaya hukum.
+SIDOARUM tidak akan bertanggung jawab atas kewajiban berikut:
+kehilangan laba, pendapatan, kesempatan bisnis, reputasi, atau tabungan yang diantisipasi
+kerugian tidak langsung atau sebagai akibat
+kerugian punitif
+Kewajiban total APLIKASI MITRA DARAT yang timbul dari atau berkaitan dengan persyaratan ini dibatasi hingga mana yang lebih besar antara (1) US$500 atau (2) 125% dari biaya yang Anda bayar untuk menggunakan layanan yang relevan dalam 12 bulan sebelum pelanggaran
+Jika Anda secara hukum dikecualikan dari tanggung jawab tertentu, termasuk perlindungan terhadap kerugian, maka tanggung jawab tersebut tidak berlaku untuk Anda menurut persyaratan ini. Misalnya, PBB memiliki kekebalan tertentu dari kewajiban hukum dan persyaratan ini tidak menggantikan kekebalan tersebut.
+
+Mengambil tindakan jika terjadi masalah
+Sebelum mengambil tindakan seperti dijelaskan di bawah, kami akan memberikan pemberitahuan terlebih dahulu kepada Anda jika memungkinkan, menjelaskan alasan tindakan kami, dan memberi Anda kesempatan untuk memperbaiki masalah, kecuali kami secara wajar meyakini bahwa melakukannya akan:
+
+menyebabkan bahaya atau kewajiban kepada pengguna, pihak ketiga, atau APLIKASI MITRA DARAT
+melanggar hukum atau perintah otoritas penegak hukum
+mengganggu penyelidikan
+menyusupi operasi, integritas, atau keamanan layanan kami
+Menghapus konten Anda
+Jika kami secara wajar meyakini bahwa salah satu konten Anda (1) melanggar persyaratan ini, persyaratan tambahan atau kebijakan khusus layanan, (2) melanggar hukum yang berlaku, atau (3) dapat membahayakan pengguna kami, pihak ketiga, atau APLIKASI MITRA DARAT, maka kami berhak untuk menghapus sebagian atau semua konten tersebut menurut hukum yang berlaku. Contoh mencakup pornografi anak, konten yang memfasilitasi perdagangan manusia atau pelecehan, dan konten yang melanggar hak atas kekayaan intelektual milik orang lain.
+
+Menangguhkan atau menghentikan akses Anda ke layanan APLIKASI MITRA DARAT
+SIDOARUM berhak untuk menangguhkan atau menghentikan akses Anda ke layanan tersebut atau menghapus Akun APLIKASI MITRA DARAT Anda jika salah satu dari hal ini terjadi:
+
+Anda secara material atau berulang melanggar persyaratan ini, persyaratan tambahan khusus layanan, atau kebijakan
+kami diwajibkan untuk melakukannya agar mematuhi persyaratan hukum atau perintah pengadilan
+kami secara wajar meyakini bahwa perilaku Anda menyebabkan bahaya atau kewajiban kepada pengguna, pihak ketiga, atau APLIKASI MITRA DARAT — misalnya, dengan meretas, phishing, melecehkan, spamming, menyesatkan orang lain, atau menyalin konten yang bukan milik Anda
+Jika Anda yakin Akun APLIKASI MITRA DARAT Anda telah ditangguhkan atau dihentikan secara keliru, Anda dapat mengajukan banding.
+
+Tentu saja, Anda selalu bebas untuk berhenti menggunakan layanan kami kapan saja. Jika Anda berhenti menggunakan layanan kami, kami menghargai jika mengetahui alasannya agar kami dapat terus menyempurnakan layanan kami.
+
+Menyelesaikan sengketa, hukum yang mengatur, dan pengadilan
+Untuk informasi tentang cara menghubungi APLIKASI MITRA DARAT, kunjungi halaman kontak kami.
+
+Hukum California akan mengatur semua sengketa yang timbul dari atau berkaitan dengan persyaratan ini, persyaratan tambahan khusus layanan, atau layanan apa pun yang terkait, terlepas dari pertentangan aturan hukum. Sengketa ini akan diselesaikan secara eksklusif di pengadilan federal atau negara bagian Santa Clara County, California, AS, dan Anda serta APLIKASI MITRA DARAT menyetujui wilayah hukum pribadi di pengadilan tersebut.
+
+Jika hukum setempat yang berlaku mencegah sengketa ini diselesaikan di pengadilan California, maka Anda dapat mengajukan sengketa ini di pengadilan setempat Anda. Demikian juga, jika hukum setempat yang berlaku mencegah pengadilan setempat Anda menerapkan hukum California untuk menyelesaikan sengketa ini, maka sengketa ini akan diatur oleh hukum setempat yang berlaku dari negara, negara bagian, atau tempat tinggal Anda yang lain.
+
+
+Tentang persyaratan ini
+Menurut hukum, Anda memiliki hak tertentu yang tidak dapat dibatasi oleh kontrak seperti persyaratan layanan ini. Persyaratan ini dengan cara apa pun tidak dimaksudkan untuk membatasi hak tersebut.
+
+Persyaratan ini menjelaskan hubungan antara Anda dan APLIKASI MITRA DARAT. Persyaratan ini tidak menciptakan hak hukum apa pun bagi orang atau organisasi lain, meskipun orang lain mendapatkan manfaat dari hubungan tersebut berdasarkan persyaratan ini.
+
+Kami ingin membuat persyaratan ini mudah untuk dipahami, jadi kami telah menggunakan contoh dari layanan kami. Namun, tidak semua layanan yang disebutkan mungkin tersedia di negara Anda.
+
+Jika persyaratan ini bertentangan dengan persyaratan tambahan khusus layanan, persyaratan tambahan akan mengatur layanan tersebut.
+
+Jika ternyata persyaratan tertentu tidak valid atau tidak dapat diberlakukan, hal ini tidak akan memengaruhi persyaratan yang lainnya.
+
+Jika Anda tidak mengikuti persyaratan ini atau persyaratan tambahan khusus layanan, dan kami tidak mengambil tindakan secara langsung, ini tidak berarti bahwa kami melepaskan hak apa pun yang mungkin kami miliki, seperti mengambil tindakan di masa mendatang.
+
+Kami dapat memperbarui persyaratan ini dan persyaratan tambahan khusus layanan (1) untuk mencerminkan perubahan pada layanan kami atau cara kami melakukan bisnis — misalnya, saat kami menambahkan layanan, fitur, teknologi, penetapan harga, atau manfaat baru (atau menghapus yang lama), (2) untuk alasan hukum, peraturan, atau keamanan, atau (3) untuk mencegah penyalahgunaan atau bahaya.
+
+Jika kami melakukan perubahan penting pada persyaratan ini atau persyaratan tambahan khusus layanan, kami akan memberi Anda pemberitahuan terlebih dahulu yang wajar dan kesempatan untuk meninjau perubahan, kecuali (1) saat kami meluncurkan layanan atau fitur baru, atau (2) dalam situasi mendesak, seperti mencegah penyalahgunaan yang sedang berlangsung atau menanggapi persyaratan hukum. Jika Anda tidak menyetujui persyaratan baru ini, Anda harus menghapus konten Anda dan berhenti menggunakan layanan. Anda juga dapat mengakhiri hubungan Anda dengan kami kapan saja dengan menutup Akun APLIKASI MITRA DARAT Anda.
+
+
+Kebijakan Privasi
+Direktorat Jenderal Perhubungan Darat built the Mitra Darat app as [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by Direktorat Jenderal Perhubungan Darat at no cost and is intended for use as is.
+
+Halaman ini digunakan untuk memberi tahu pengunjung mengenai kebijakan kami terkait pengumpulan, penggunaan, dan pengungkapan Informasi Pribadi jika ada yang memutuskan untuk menggunakan Layanan kami.
+
+Jika Anda memilih untuk menggunakan Layanan kami, maka Anda setuju dengan pengumpulan dan penggunaan informasi yang terkait dengan kebijakan ini. Informasi Pribadi yang kami kumpulkan digunakan untuk menyediakan dan meningkatkan Layanan. Kami tidak akan menggunakan atau membagikan informasi Anda kepada siapa pun kecuali sebagaimana dijelaskan dalam Kebijakan Privasi ini.
+
+Istilah-istilah yang digunakan dalam Kebijakan Privasi ini memiliki arti yang sama seperti dalam Syarat dan Ketentuan kami, yang dapat diakses di Mitra Darat kecuali didefinisikan lain dalam Kebijakan Privasi ini.
+
+Pengumpulan dan Penggunaan Informasi
+
+Untuk pengalaman yang lebih baik, saat menggunakan Layanan kami, kami mungkin meminta Anda untuk memberikan kami informasi pengenal pribadi tertentu, termasuk namun tidak terbatas pada Lokasi, Email, Nama, ID Pengguna, dan lainnya. Informasi yang kami minta akan disimpan oleh kami dan digunakan sebagaimana dijelaskan dalam kebijakan privasi ini.
+
+Aplikasi ini menggunakan layanan pihak ketiga yang dapat mengumpulkan informasi yang digunakan untuk mengidentifikasi Anda.
+
+Tautan ke kebijakan privasi penyedia layanan pihak ketiga yang digunakan oleh aplikasi
+
+Layanan Google Play
+Google Analytics untuk Firebase
+Firebase Crashlytics
+Data Catatan
+
+Kami ingin memberi tahu Anda bahwa setiap kali Anda menggunakan Layanan kami, jika terjadi kesalahan pada aplikasi, kami mengumpulkan data dan informasi (melalui produk pihak ketiga) di ponsel Anda yang disebut Data Log. Data Log ini dapat mencakup informasi seperti alamat Protokol Internet (“IP”) perangkat Anda, nama perangkat, versi sistem operasi, konfigurasi aplikasi saat menggunakan Layanan kami, waktu dan tanggal penggunaan Layanan oleh Anda, dan statistik lainnya.
+
+Kue
+
+Cookie adalah berkas berisi sejumlah kecil data yang umumnya digunakan sebagai pengenal unik anonim. Cookie dikirim ke peramban Anda dari situs web yang Anda kunjungi dan disimpan di memori internal perangkat Anda.
+
+Layanan ini tidak menggunakan "cookie" ini secara eksplisit. Namun, aplikasi dapat menggunakan kode dan pustaka pihak ketiga yang menggunakan "cookie" untuk mengumpulkan informasi dan meningkatkan layanan mereka. Anda memiliki pilihan untuk menerima atau menolak cookie ini dan mengetahui kapan cookie dikirim ke perangkat Anda. Jika Anda memilih untuk menolak cookie kami, Anda mungkin tidak dapat menggunakan beberapa bagian dari Layanan ini.
+
+Penyedia Layanan
+
+Kami dapat mempekerjakan perusahaan dan individu pihak ketiga karena alasan berikut:
+
+Untuk memfasilitasi Layanan kami;
+Untuk menyediakan Layanan atas nama kami;
+Untuk melakukan layanan terkait Layanan; atau
+Untuk membantu kami menganalisis bagaimana Layanan kami digunakan.
+We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+Security
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Access Permission
+
+Access Camera,we need access camera for supporting attachments
+GPS Location,we need access permission for your location to use this application
+Children’s Privacy
+
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+
+Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2023-02-24
+
+Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at info@mitradarat.dephub.go.id.
